@@ -40,3 +40,17 @@ Next, the user is prompted to select the path to the image to be watermarked. In
 Once both the watermark and the image have been selected, the user can fine-tune their watermark's parameters to reach their desired outcome.
 
 ![adjusting-watermark.png](https://i.ibb.co/nPMLhSb/adjusting-watermark.png)
+
+### Saving
+
+When the user is satisfied with the final product, they're able to export the watermarked image by click the "save" button. The user is then prompted to choose the destination path. The image is automatically converted to RGB before being exported.
+
+![saving.png](https://i.ibb.co/rQKfNTK/saving.png)
+
+## Requirements
+
+This app requires the following:
+
++ Python 3
++ Tkinter
++ Pillow
