@@ -34,3 +34,9 @@ According to the instructions presented on screen, the user, first, should uploa
 Next, the user is prompted to select the path to the image to be watermarked. In order to properly fit the application window, the image preview is resized to a default value.
 
 ![selecting-image.png](https://i.ibb.co/KXsHYts/selecting-image.png)
+
+### Watermark customization
+
+Once both the watermark and the image have been selected, the user can fine-tune their watermark's parameters to reach their desired outcome.
+
+![adjusting-watermark.png](https://i.ibb.co/nPMLhSb/adjusting-watermark.png)
