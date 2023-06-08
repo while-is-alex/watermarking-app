@@ -25,7 +25,12 @@ pip install -r requirements.txt
 ![home-screen.png](https://i.ibb.co/QpXjvp5/home-screen.png)
 
 ## Features
-### Watermark selection
+### Watermark file selection
 According to the instructions presented on screen, the user, first, should upload their watermark, which can be done by pressing the "upload watermark" button. The user will be prompted to select the path to their watermark (a .png file).
 
 ![selecting-watermark.png](https://i.ibb.co/34Wdb6D/selecting-watermark.png)
+
+### Image file selection
+Next, the user is prompted to select the path to the image to be watermarked. In order to properly fit the application window, the image preview is resized to a default value.
+
+![selecting-image.png](https://i.ibb.co/KXsHYts/selecting-image.png)
